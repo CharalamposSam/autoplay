@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+  background-color: #504f4f;
+}
+
+#slice {
+  position: relative;
+  background: aliceblue;
+}
+
+#slice #initVideo {
+  width: 100%;
+  display: block;
+}
+/*# sourceMappingURL=style.css.map */
